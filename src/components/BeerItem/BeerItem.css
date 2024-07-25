@@ -1,0 +1,28 @@
+.beer-item {
+    text-align: left;
+    padding: 0 2rem;
+}
+
+.beer-item h2 {
+    color: #FFCA41  ;
+}
+
+.beer-item button{
+    background-color: #FFCA41;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 40px;
+    font-size: 20px;
+    
+    margin-bottom: 2rem;
+    width: 111px;
+    height: 31px;
+}
+
+.beer-item  a {
+    color: white;
+}
+
+hr {
+    border: 1px solid #33333384;
+}

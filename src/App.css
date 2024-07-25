@@ -1,0 +1,29 @@
+#root {
+  max-width: 414px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  background-color: white;
+}
+
+.home-button {
+  width: 353px;
+  height: 277px;
+}
+
+main p {
+  margin: 0 auto;
+  width: 353px;
+  text-align: left;
+}
+
+main {
+  padding: 2rem 0;
+}
+
+.detail-page, .random-beer {
+  text-align: left;
+  padding: 2rem;
+}
+
+

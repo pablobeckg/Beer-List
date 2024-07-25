@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "RobotoSlab";
+  src: url("public/fonts/RobotoSlab-VariableFont_wght.ttf");
+}
+
+:root {
+  font-family: "RobotoSlab";
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(208, 208, 208);
+}
+
+a {
+  text-decoration: none;
+}

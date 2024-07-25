@@ -1,0 +1,14 @@
+.random-beer button{
+    background-color: transparent;
+    border: none;
+}
+
+.random-beer h3 {
+    color: gray;
+    font-size: 0.7rem;
+    line-height: 0.3rem;
+}
+
+.arrow {
+    margin-bottom: 2rem;
+}
