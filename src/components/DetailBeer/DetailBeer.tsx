@@ -23,7 +23,7 @@ const DetailBeer = () => {
       <h3>First brewed: {filterBeer?.first_brewed}</h3>
       <h3>Attenuation level: {filterBeer?.attenuation_level}</h3>
       <p>{filterBeer?.description}</p>
-      <button><Link to="/all-beers"><img src="images/Back.png" alt="" /></Link></button>
+      <button><Link to="/all-beers"><img src="/images/Back.png" alt="" /></Link></button>
     </div>
   );
 };
