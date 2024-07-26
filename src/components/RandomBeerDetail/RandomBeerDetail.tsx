@@ -23,7 +23,7 @@ const RandomBeerDetail = () => {
       <p>{randomBeer?.description}</p>
       <button className="arrow">
         <Link to="/all-beers">
-          <img src="/public/images/Back.png" alt="" />
+          <img src="images/Back.png" alt="" />
         </Link>
       </button>
       <Footer/>
