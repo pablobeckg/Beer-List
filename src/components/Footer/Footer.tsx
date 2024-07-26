@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <button>
         <Link to="/">
-          <img src="/public/images/Logo.png" alt="" />
+          <img src="/images/Logo.png" alt="" />
         </Link>
       </button>
     </footer>
